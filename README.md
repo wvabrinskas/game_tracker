@@ -20,6 +20,6 @@ A game Win - Loss tracker for use with OBS and Stream Deck.
     - The next time you hit `Win` or `Lose` it will add the file back
 
 # Developer Social Contact
-1. ![](https://www.seeklogo.net/wp-content/uploads/2015/09/twitter-icon-circle-logo.png =50x50) [Twitter](https://twitter.com/william_vab)
+1. [Twitter](https://twitter.com/william_vab)
 1. [Twitch (wavOW)](https://twitch.tv/wavow)
 1. [Twitch (Gaming Night Live)](https://twitch.tv/gamingnightlive)
